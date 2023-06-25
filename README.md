@@ -1,4 +1,4 @@
-# NWPU_digtal_image_process
+# NWPU_digtal_image_process matlab_GUI
 数字图像处理matlab大作业
 设计实现一个针对数字图像处理的仿真系统程序，要求程序具有界面，并能实现以下功能，并通过实例展示该仿真系统的各项功能：
       1）图像的读取、存储与显示：
